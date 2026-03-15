@@ -1,0 +1,60 @@
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\Day13 Task.exe
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\Day13 Task.deps.json
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\Day13 Task.runtimeconfig.json
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\Day13 Task.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\Day13 Task.pdb
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\Azure.Core.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\Azure.Identity.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\System.ClientModel.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\System.Memory.Data.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\obj\Debug\net10.0-windows\Day13 Task.csproj.AssemblyReference.cache
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\obj\Debug\net10.0-windows\Day13 Task.csproj.GenerateResource.cache
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\obj\Debug\net10.0-windows\Day13 Task.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\obj\Debug\net10.0-windows\Day13 Task.AssemblyInfoInputs.cache
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\obj\Debug\net10.0-windows\Day13 Task.AssemblyInfo.cs
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\obj\Debug\net10.0-windows\Day13 Task.csproj.CoreCompileInputs.cache
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\obj\Debug\net10.0-windows\Day13 Task.csproj.Up2Date
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\obj\Debug\net10.0-windows\Day13 Task.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\obj\Debug\net10.0-windows\refint\Day13 Task.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\obj\Debug\net10.0-windows\Day13 Task.pdb
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\obj\Debug\net10.0-windows\Day13 Task.genruntimeconfig.cache
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\obj\Debug\net10.0-windows\ref\Day13 Task.dll
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\bin\Debug\net10.0-windows\Day13 Task.dll.config
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\obj\Debug\net10.0-windows\Day13_Task.GridView.resources
+G:\ITI 9M\C#\D13\Day13 Task\Day13 Task\obj\Debug\net10.0-windows\Day13_Task.DetailedView.resources
